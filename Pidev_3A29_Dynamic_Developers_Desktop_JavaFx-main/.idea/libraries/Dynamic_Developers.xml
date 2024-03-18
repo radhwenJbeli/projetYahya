@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Dynamic-Developers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Dynamic-Developers/dist/Dynamic-Developers.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

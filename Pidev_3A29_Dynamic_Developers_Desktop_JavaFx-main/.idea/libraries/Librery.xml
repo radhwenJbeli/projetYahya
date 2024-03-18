@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="Librery">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Librery/jasperreports-fonts-6.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/bcmail-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/logback-core-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/lucene-queryparser-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/TrayNotification-5393c3a54f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/castor-core-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/fontawesomefx-8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/lucene-analyzers-common-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/lucene-core-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/itext-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jasperreports-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/spring-aop-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/lucene-sandbox-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jackson-annotations-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/olap4j-0.9.7.309-JS-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/poi-ooxml-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/controlsfx-8.40.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/spring-context-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/bcmail-jdk14-138.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/fontawesomefx-glyphsbrowser-all-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/stax-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/commons-beanutils-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/TrayTester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/NotificationAPI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/GMapsFX-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/spring-asm-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/bcprov-jdk14-138.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/spring-core-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/lucene-queries-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/twilio-8.27.0-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/itext-2.1.7.js5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jfoenix-8.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/core-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/stax-api-1.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/ojdbc14-10.2.0.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/bcprov-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jakarta-regexp-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/scenebuilder-8.5.0-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/poi-1.8.0-dev-20020919.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jasperreports-javaflow-6.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/spring-beans-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/spring-expression-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/poi-5.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/icu4j-57.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/itextpdf-5.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/ecj-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/slf4j-api-1.7.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jackson-core-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/fontawesomefx-8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jackson-databind-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/castor-xml-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/logback-classic-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jfoenix-8.0.3 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/bctsp-jdk14-1.38.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
